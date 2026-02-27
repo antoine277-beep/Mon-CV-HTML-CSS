@@ -2,19 +2,19 @@
 /* Import de Raleway via @font-face (Assure-toi d'avoir les fichiers dans /fonts/) */
 @font-face {
     font-family: 'Raleway';
-    src: url('../fonts/Raleway-Regular.ttf') format('truetype');
+    src: url('../fonts/Raleway/static/Raleway-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'Raleway';
-    src: url('../fonts/Raleway-Bold.ttf') format('truetype');
+    src: url('../fonts/Raleway/static/Raleway-Bold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
 }
 @font-face {
     font-family: 'Raleway';
-    src: url('../fonts/Raleway-Italic.ttf') format('truetype');
+    src: url('../fonts/Raleway/static/Raleway-Italic.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
 }
